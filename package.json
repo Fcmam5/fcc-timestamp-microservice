@@ -1,0 +1,24 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Free code camp backend certification challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "author": "Fortas Abdeldjalil",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fcmam5/fcc-timestamp-microservice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fcmam5/fcc-timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/Fcmam5/fcc-timestamp-microservice#readme"
+}
